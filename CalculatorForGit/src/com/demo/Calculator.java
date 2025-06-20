@@ -10,5 +10,9 @@ public class Calculator
 	{
 		System.out.println("substraction: changes here by sd");
 	}
+	public void mul() 
+	{
+		System.out.println("multiplication");
+	}
 
 }
