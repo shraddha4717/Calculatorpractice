@@ -8,7 +8,7 @@ public class Calculator
 	}
 	public void sub() 
 	{
-		System.out.println("substraction:");
+		System.out.println("substraction: changes here by sd");
 	}
 
 }
