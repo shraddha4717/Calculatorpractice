@@ -15,4 +15,9 @@ public class Calculator
 		System.out.println("multiplication");
 	}
 
+	public void m1()
+	{
+		
+	}
+
 }
