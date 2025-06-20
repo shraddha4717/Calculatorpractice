@@ -20,4 +20,9 @@ public class Calculator
 		
 	}
 
+	public void m2()
+	{
+		
+	}
+
 }
